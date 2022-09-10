@@ -1,0 +1,8 @@
+2022-08-24T00:09:38+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress 7\wp-content\themes\astra\inc\class-astra-loop.php on line 9
+
+2022-08-24T16:49:39+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress 7\wp-content\plugins\woocommerce\includes\class-wc-autoloader.php on line 53
+
+2022-08-24T19:11:51+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress 7\wp-includes\blocks.php on line 252
+
+2022-08-24T19:46:25+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress 7\wp-content\plugins\woocommerce\packages\action-scheduler\classes\abstracts\ActionScheduler_Abstract_RecurringSchedule.php on line 6
+

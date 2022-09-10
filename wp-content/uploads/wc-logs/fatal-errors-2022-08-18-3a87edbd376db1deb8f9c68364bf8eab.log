@@ -1,0 +1,4 @@
+2022-08-18T18:58:37+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress 7\wp-content\plugins\woocommerce\src\Internal\Admin\ActivityPanels.php on line 69
+
+2022-08-18T19:01:19+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress 7\wp-content\plugins\essential-addons-for-elementor-lite\includes\Elements\Dual_Color_Header.php on line 6
+
