@@ -1,0 +1,10 @@
+2023-08-24T03:37:43+00:00 CRITICAL Uncaught TypeError: get_object_vars(): Argument #1 ($object) must be of type object, null given in /home/u123962300/domains/golfcartsmaskine.com/public_html/wp-content/plugins/wordpress-popup/inc/front/hustle-module-front-ajax.php:995
+Stack trace:
+#0 /home/u123962300/domains/golfcartsmaskine.com/public_html/wp-content/plugins/wordpress-popup/inc/front/hustle-module-front-ajax.php(995): get_object_vars()
+#1 /home/u123962300/domains/golfcartsmaskine.com/public_html/wp-includes/class-wp-hook.php(307): Hustle_Module_Front_Ajax->module_viewed()
+#2 /home/u123962300/domains/golfcartsmaskine.com/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#3 /home/u123962300/domains/golfcartsmaskine.com/public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#4 /home/u123962300/domains/golfcartsmaskine.com/public_html/wp-admin/admin-ajax.php(202): do_action()
+#5 {main}
+  thrown in /home/u123962300/domains/golfcartsmaskine.com/public_html/wp-content/plugins/wordpress-popup/inc/front/hustle-module-front-ajax.php on line 995
+

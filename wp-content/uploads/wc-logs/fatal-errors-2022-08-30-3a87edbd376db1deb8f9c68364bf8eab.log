@@ -1,4 +1,0 @@
-2022-08-30T20:59:41+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress 7\wp-content\themes\astra\inc\class-astra-dynamic-css.php on line 13
-
-2022-08-30T21:05:01+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress 7\wp-content\plugins\essential-addons-for-elementor-lite\includes\Elements\Dual_Color_Header.php on line 6
-
